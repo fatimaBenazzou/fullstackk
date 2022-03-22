@@ -1,4 +1,4 @@
- // Remove a specific Element from an array
+//  // Remove a specific Element from an array
 
  function supprimer(t, element){
     i = j = 0,
@@ -28,7 +28,7 @@
 }
 
 
-// Remove Duplicates from Sorted Array
+// // Remove Duplicates from Sorted Array
 var t = [1, 2, 3, 3, 4],
   i = 0,
   j = 1;
@@ -45,3 +45,5 @@ function suppD(t) {
   return t;
 }
 console.log(suppD(t));
+
+
